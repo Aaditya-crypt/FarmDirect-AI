@@ -1,2 +1,3 @@
-# FarmDirect-AI
-AI-powered farm-to-customer marketplace that predicts crop prices and enables direct ordering and delivery of agricultural produce.
+# Welcome to your Lovable project
+
+TODO: Document your project here
